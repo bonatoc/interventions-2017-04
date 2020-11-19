@@ -12,7 +12,7 @@
  - Front-End (Web App) : Licence mensuelle 100 000 postes (web, clés USB)
 
 | Mois d'exploitation | Montant licence | Montant réglé |  
-|--|--|--|--|  
+|--|--|--|  
 | 1 | 1 800 € | 0 € |  
 |  |**Cumul licence**|   **Total réglé**  |  
 |   | 1 800 € | 0 € |  
